@@ -1,4 +1,4 @@
-# Slide Image Puzzle
+# Light It Up
 <img src="https://blipthirteen.com/images/projects/light_it_up/1.png" alt="screenshot" height="400" />
 
 Every level is stored in a HashMap
